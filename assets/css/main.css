@@ -58,3 +58,31 @@
 	padding: 8px 7px 5px 7px;
     display: inline-block;
 }
+.la4{
+	background-color: yellow;
+	width: 150px;
+    height: 45px;
+    padding-top: 4px;
+    padding-right: 13px;
+    padding-left: 4px;
+    display: inline-block;
+}
+.es4{
+	background-color: #F10B7D;
+	width: 150px;
+	height: 45px;
+	padding-top: 4px;
+    padding-right: 13px;
+    padding-left: 4px;
+    border-color: black;
+    display: inline-block;
+}
+.trans4{
+	background-color: yellow;
+	width: 150px;
+    height: 45px;
+    padding-top: 4px;
+    padding-right: 13px;
+    padding-left: 4px;
+    display: inline-block;
+}
