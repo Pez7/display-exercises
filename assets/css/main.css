@@ -7,9 +7,38 @@
 	background-color: #F10B7D;
 	padding-top: 0px;
     padding-bottom: 30px;
+    border-color: black;
 }
 .trans1{
 	background-color: yellow;
 	padding-top: 0px;
     padding-bottom: 30px;
+}
+.la2{
+	background-color: yellow;
+	padding-top: 9px;
+	padding-left: 8px;
+    padding-bottom: 30px;
+    display: block;
+    margin: 10px;
+    width: 190px;
+
+}
+.es2{
+	background-color: #F10B7D;
+	padding-top: 9px;
+	padding-left: 8px;
+    padding-bottom: 30px;
+    display: block;
+    margin: 10px;
+    width: 190px;
+}
+.trans2{
+	background-color: yellow;
+	padding-top: 9px;
+	padding-left: 8px;
+    padding-bottom: 30px;
+    display: block;
+    margin: 10px;
+    width: 190px;
 }
