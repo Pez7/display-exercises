@@ -86,3 +86,71 @@
     padding-left: 4px;
     display: inline-block;
 }
+.all{
+	margin:0;
+}
+.tres-cajas{
+	
+    width: 387px;
+    height: 132px;
+    padding: 20px;
+    display: block;
+    margin: 10px 0 20px 10px;
+}
+.tres-cajas .primera{
+	width: 60px; 
+    height: 60px;
+    padding:30px; 
+    border: 3px solid #555;
+    display: inline-block;
+    background-color: green;
+}
+.tres-cajas .segunda{
+	width: 60px; 
+    height: 60px;
+    padding:30px; 
+    border: 3px solid #555;
+    display: inline-block;
+    background-color: green;
+}
+.tres-cajas .tercera{
+	width: 60px; 
+    height: 60px;
+    padding:30px; 
+    border: 3px solid #555;
+    display: inline-block;
+    background-color: green;
+}
+.dos-cajas{
+	display: block;
+	width: 380px;
+	height: 120px;
+	padding-left: 10px;
+	margin: 10px 0 20px 0;
+}
+.cuarta{
+	padding:30px;
+	width: 60px;
+	height: 60px;
+	border: 3px solid #555;
+	display: inline-block;
+	background-color: green;
+}
+.quinta{
+	padding: 30px;
+    width: 60px;
+    height: 24px;
+    padding-top: 66px;
+    border: 3px solid #555;
+    display: inline-block;
+    background-color: green;
+}
+.sexta{
+	padding: 30px;
+    width: 60px;
+    height: 24px;
+    padding-top: 66px;
+    border: 3px solid #555;
+    display: block;
+    background-color: green;
+}
